@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6dc6e78e9af7088a39e3a824",
+  "owner": "pvrfktq",
+  "repo": "page-ddc82e0276130a04671be0b8",
+  "title": "逸云(NETRON)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ddc82e0276130a04671be0b8",
+      "a": "逸云(NETRON)",
+      "b": "2027最新官网",
+      "entity": "逸云(NETRON)",
+      "brand": "逸云(NETRON)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "660d45d098afe50e81608da2bb91f1cb711c868390e8ef45ab6ac35b0cd469d2",
+      "content": {
+        "primary_entity": "逸云(NETRON)",
+        "keyword1": "逸云(NETRON)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，逸云(NETRON)提供基础版、旗舰版与团队版三档海外加速方案，月付从¥15起，年付可享更优价格。用户可按设备数量与月流量需求选择套餐，在客户端内导入订阅即可开始使用，适合多设备、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "逸云(NETRON)海外加速",
+          "AI_HERO_INTRO": "逸云(NETRON)是面向多设备用户的海外加速服务品牌，按月流量、在线设备数与线路类型划分套餐。基础版满足轻量浏览，旗舰版支持流媒体与游戏专线优化，团队版提供大流量与多设备管理，可按需选择。",
+          "AI_VISUAL_TITLE": "逸云(NETRON)多端加速",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案价格更优",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路类型三个维度对比，快速找到合适方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版可支持20台设备同时在线，按日常使用设备数量对应选择。",
+          "AI_FEATURE_TITLE_2": "按流量需求选周期",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，月付灵活、年付更省，可按用量预估决定。",
+          "AI_FEATURE_TITLE_3": "按线路类型选体验",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速与全节点原生流媒体解锁，团队版提供VIP专属高带宽节点，适合更高要求场景。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并在客户端内导入订阅信息完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月；按年付分别约¥150、¥350、¥850。流量与设备数逐档提升，按需选择即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用逸云(NETRON)。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选择合适套餐并完成购买。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端支持情况，准备对应的订阅信息。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "打开所选客户端，按照客户端文档导入订阅信息，保存后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，即刻加速",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选择逸云(NETRON)套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "逸云(NETRON)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：3 台以内选基础版，5 台左右选旗舰版，20 台以内选团队版。再看每月流量：100GB、300GB 与 1000GB 分别对应三档。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150/年；旗舰版月付 ¥35、年付 ¥350/年；团队版月付 ¥85、年付 ¥850/年。年付相当于按十个月计费。",
+          "AI_FAQ_QUESTION_3": "同一账号能在多台设备使用吗？",
+          "AI_FAQ_ANSWER_3": "可以，但受套餐设备数量限制：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出数量时需升级套餐或调整在线设备。",
+          "AI_FAQ_QUESTION_4": "旗舰版的线路有什么特别？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟与流媒体体验有要求的用户。基础版为普通线路节点池。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合小型团队或高流量多设备环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sj-mk.cn",
+    "host": "sj-mk.cn"
+  },
+  "file_hashes": {
+    "index.html": "8dd95b9a20c4d5c8aa369597d9b8c0c2d3ce2ea0a62792d65bdba80b9c947788",
+    "sitemap.xml": "10c4f9be8623a493159c5861140990bb49d7914817219b301061597e1e02c889",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "529216ab3c5f47a5703d410f465e2400543090ccc58b03752676f569ac4806bc",
+    "robots.txt": "ef1d24634b0d83c1b3bef1fc52631624f4216755c7fc8047af838c74b6aa35a1",
+    "a10e25dafab0c029dacb4fc258abc4c0.txt": "3187d776b02d31844565a2d7ce852807e52a1ccf96ba0a5249372f0380281a4a"
+  },
+  "revision": "f15f163ac84ba2272e273e6f7fba691260ec8c5bccc6b977f9f6b34348a7dd96"
+}
